@@ -1,4 +1,3 @@
-# resume
 # **Welcome to Razzak's page** 
 - [Home](#home)
 - [Skill](#skill)
